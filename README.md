@@ -1,1 +1,3 @@
-# simple_notes
+# BareNotes
+
+A simple notes app.
